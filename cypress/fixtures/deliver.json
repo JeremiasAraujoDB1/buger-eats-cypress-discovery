@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Jeremias Araújo",
+        "cpf": "01009339478",
+        "email": "jqcaraujo@gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 140",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_invalid": {
+        "name": "João Machado",
+        "cpf": "010093394SS",
+        "email": "jqcaraujo@gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "58010100",
+            "street": "Rua Irineu Pinto",
+            "number": "1000",
+            "details": "apt 140",
+            "district": "Centro",
+            "city_state": "João Pessoa/PB"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_invalid": {
+        "name": "Jeremias Araújo",
+        "cpf": "01009339478",
+        "email": "jqcaraujo.gmail.com",
+        "whatsapp": "1199999999",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "apt 140",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
